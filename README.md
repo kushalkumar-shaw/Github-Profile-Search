@@ -1,5 +1,9 @@
 # GitHub Profile Search
 
+**Live Demo:** [Click here to view](https://kushalkumar-shaw.github.io/Github-Profile-Search/)
+
+![Screenshot](./cs/sc.jpg)
+
 This project demonstrates how to build an interactive GitHub Profile Search application using HTML, CSS, and JavaScript. It allows users to fetch and view GitHub user data in real time, serving as a practical exercise in API integration and dynamic UI updates.
 
 ## Features
